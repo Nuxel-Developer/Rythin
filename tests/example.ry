@@ -8,7 +8,7 @@ func print_msg(str text):void -> {
 	print(text);
 }
 
-func main():int -> {
+func main():int -> static {
     print_str(hello_str);
     return 0; ;;ou exit_sucess/exit_failure do pacote Sys.Utils!
 }
