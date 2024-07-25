@@ -1,0 +1,6 @@
+MainClass:class -> public-static {
+  func main():int -> static {
+    print("Hello World");
+    return 0;
+  }
+}
