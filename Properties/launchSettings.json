@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Rythin": {
+      "commandName": "Project",
+      "hotReloadEnabled": false,
+      "jsWebView2Debugging": false
+    }
+  }
+}

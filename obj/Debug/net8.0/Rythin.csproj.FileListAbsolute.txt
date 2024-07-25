@@ -1,0 +1,45 @@
+C:/Users/Rafael/source/repos/Rythin/bin/Debug/net8.0/Rythin.exe
+C:/Users/Rafael/source/repos/Rythin/bin/Debug/net8.0/Rythin.deps.json
+C:/Users/Rafael/source/repos/Rythin/bin/Debug/net8.0/Rythin.runtimeconfig.json
+C:/Users/Rafael/source/repos/Rythin/bin/Debug/net8.0/Rythin.dll
+C:/Users/Rafael/source/repos/Rythin/bin/Debug/net8.0/Rythin.pdb
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.AssemblyInfoInputs.cache
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.AssemblyInfo.cs
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.csproj.CoreCompileInputs.cache
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.dll
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/refint/Rythin.dll
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.pdb
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.genruntimeconfig.cache
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/ref/Rythin.dll
+C:/Users/Rafael/source/repos/Rythin/obj/Debug/net8.0/Rythin.sourcelink.json
+/home/rafael/VSCode/Rythin/bin/Debug/net8.0/Rythin
+/home/rafael/VSCode/Rythin/bin/Debug/net8.0/Rythin.deps.json
+/home/rafael/VSCode/Rythin/bin/Debug/net8.0/Rythin.runtimeconfig.json
+/home/rafael/VSCode/Rythin/bin/Debug/net8.0/Rythin.dll
+/home/rafael/VSCode/Rythin/bin/Debug/net8.0/Rythin.pdb
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.AssemblyInfoInputs.cache
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.AssemblyInfo.cs
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.csproj.CoreCompileInputs.cache
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.sourcelink.json
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.dll
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/refint/Rythin.dll
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.pdb
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/Rythin.genruntimeconfig.cache
+/home/rafael/VSCode/Rythin/obj/Debug/net8.0/ref/Rythin.dll
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.AssemblyInfoInputs.cache
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.AssemblyInfo.cs
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.sourcelink.json
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.dll
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\refint\Rythin.dll
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.pdb
+C:\Users\Rafael\Visual Studio Projects\Rythin\bin\Debug\net8.0\Rythin.exe
+C:\Users\Rafael\Visual Studio Projects\Rythin\bin\Debug\net8.0\Rythin.deps.json
+C:\Users\Rafael\Visual Studio Projects\Rythin\bin\Debug\net8.0\Rythin.runtimeconfig.json
+C:\Users\Rafael\Visual Studio Projects\Rythin\bin\Debug\net8.0\Rythin.dll
+C:\Users\Rafael\Visual Studio Projects\Rythin\bin\Debug\net8.0\Rythin.pdb
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\Rythin.genruntimeconfig.cache
+C:\Users\Rafael\Visual Studio Projects\Rythin\obj\Debug\net8.0\ref\Rythin.dll

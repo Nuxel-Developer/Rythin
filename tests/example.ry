@@ -1,0 +1,14 @@
+use Utils.RythinUtils; ;;importando um pacote local
+
+func text_str():str -> {
+	return "Hello World";
+}
+
+func print_msg(str text):void -> {
+	print(text);
+}
+
+func main():int -> {
+    print_str(hello_str);
+    return 0; ;;ou exit_sucess/exit_failure do pacote Sys.Utils!
+}
